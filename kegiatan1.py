@@ -1,0 +1,11 @@
+### Program identitas diri.Dibuat oleh Luthfi L200190168
+Nama = 'Imawan Luthfi Pambudi'
+Tempat_Tgl_Lahir = 'Karanganyar,31 Mei 2000'
+Jenis_Kelamin = 'Laki-laki'
+Alamat = 'Tepus 06/10,Sewurejo,Mojogedang,Karanganyar'
+Agama = 'Islam'
+Status_Perkawinan = 'Belum kawin'
+Pekerjaan = 'Mahasiswa'
+Hobby = 'Badminton'
+Berat_Badan = '54 kg'
+Tinggi_Badan = '170 cm'
